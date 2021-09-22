@@ -1,14 +1,15 @@
-## ยินดีต้อนรับสู่ GITHUB PROFILE ของเด็กเกรียน😄
+## Welcome To My Github Profile😄
+  
+💬 Hello, welcome to my github profile.  
+My name is Phumin Maliwan, My nickname is Man, 19 years old.  
+You can take my project that is open to public and edit as you like.  
+But don't forget to give credit as well.  
 
-💬 สวัสดีครับ ผมชื่อ **Mr.Phumin Maliwan** นะครับ หรือเรียกสั้นๆว่า **แมน** ก็ได้ <br>
-ผมอายุ **19ปี** กำลังศึกษา👨‍🎓ในระดับ ปริญญาตรี ชั้นปีที่ 1 คณะวิทยาการคอมพิวเตอร์ สาขาวิทยาการคอมพิวเตอร์ <br>
-หรือที่เรียกในภาษาอังกฤษว่า **computer science💻** <br>
-ผมชื้นชอบในการเขียนโปรแกรม และ เล่นดนตรีเป็นอย่างมาก ขอบคุณที่เข้ามาส่อง☺️ <br>
-วงดนตรีชื่อ **SOMBAND** ตำแหน่ง มือกีต้าร์🎸 ฝากติดตามด้วยน่า <br>
-- Social
+## Follow me on social
   * [Facebook](https://www.facebook.com/PhuminMaliwan)  
-  * [YouTube:MANTVMASS](https://www.youtube.com/channel/UCYJk0E1wwY3zX-i8tn95mhw)
-  * [YouTube:Mobile Mining](https://www.youtube.com/channel/UCevNnlKLgRTg-cku5JQ2Ahw)  
+  * YouTube
+    * [MANTVMASS](https://www.youtube.com/channel/UCYJk0E1wwY3zX-i8tn95mhw)
+    * [MOBILE MINING](https://www.youtube.com/channel/UCevNnlKLgRTg-cku5JQ2Ahw)  
   
   
   
