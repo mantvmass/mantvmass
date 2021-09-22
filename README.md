@@ -5,9 +5,15 @@
 หรือที่เรียกในภาษาอังกฤษว่า **computer science💻** <br>
 ผมชื้นชอบในการเขียนโปรแกรม และ เล่นดนตรีเป็นอย่างมาก ขอบคุณที่เข้ามาส่อง☺️ <br>
 วงดนตรีชื่อ **SOMBAND** ตำแหน่ง มือกีต้าร์🎸 ฝากติดตามด้วยน่า <br>
-⚡[Facebook](https://www.facebook.com/PhuminMaliwan) <br>
-⚡[YouTube:MANTVMASS](https://www.youtube.com/channel/UCYJk0E1wwY3zX-i8tn95mhw) <br>
-⚡[YouTube:Mobile Mining](https://www.youtube.com/channel/UCevNnlKLgRTg-cku5JQ2Ahw)
+- Social
+  * [Facebook](https://www.facebook.com/PhuminMaliwan)  
+  * [YouTube:MANTVMASS](https://www.youtube.com/channel/UCYJk0E1wwY3zX-i8tn95mhw)
+  * [YouTube:Mobile Mining](https://www.youtube.com/channel/UCevNnlKLgRTg-cku5JQ2Ahw)  
+  
+  
+  
+  
+  
 <!--
 **mantvmass/mantvmass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
