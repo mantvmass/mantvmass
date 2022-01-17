@@ -1,7 +1,7 @@
 ## Welcome To My Github Profile😄
   
 💬 Hello, welcome to my github profile.  
-My name is Phumin Maliwan, My nickname is Man, 19 years old.  
+My name is Phumin Maliwan, My nickname is Man.  
 You can take my project that is open to public and edit as you like.  
 But don't forget to give credit as well.  
 
