@@ -12,7 +12,33 @@ But don't forget to give credit as well.
     * [MOBILE MINING](https://www.youtube.com/channel/UCevNnlKLgRTg-cku5JQ2Ahw)  
   
   
-  
+ ## Language Skill
+<p align="left"> 
+  <a href="./">
+    <img src="https://img.icons8.com/color/96/000000/c-programming.png"/> 
+  </a>
+  <a href="./">
+    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
+  </a>
+  <a href="./">
+    <img src="https://img.icons8.com/color/96/000000/python--v2.png"/>
+  </a>
+  <a href="./">
+    <img src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>
+  </a>
+  <a href="./">
+    <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+  </a>
+  <a href="./">
+    <img src="https://img.icons8.com/ios/100/000000/php.png"/>
+  </a>
+  <a href="./">
+    <img src="https://img.icons8.com/color/96/000000/css3.png"/>
+  </a>
+  <a href="./">
+    <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
+  </a>
+</p>
   
   
 <!--
