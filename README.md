@@ -5,6 +5,7 @@ My name is Phumin Maliwan, My nickname is Man.
 You can take my project that is open to public and edit as you like.  
 But don't forget to give credit as well.  
 </p>
+<img src="https://komarev.com/ghpvc/?username=mantvmass&label=Profile%20views&color=0e75b6&style=flat" alt="sakol" />
 <div>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=mantvmass&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 <div>
