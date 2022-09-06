@@ -8,12 +8,13 @@ But don't forget to give credit as well.
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mantvmass&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%"/>
-<!-- height="120px" -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantvmass&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%"/>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantvmass&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%" height="120px"/> -->
 
  
 
-<h2>Languages & Tools </h2>
+## Languages & Tools
+-------------
 <table>
   <tr>
     <td>
@@ -37,13 +38,15 @@ But don't forget to give credit as well.
 </table>
 
 
-⚡Follow me on social
--------------------
+## ⚡Follow me on social
+-------------------------
   * [Facebook](https://www.facebook.com/PhuminMaliwan)  
   * YouTube
     * [MANTVMASS](https://www.youtube.com/channel/UCYJk0E1wwY3zX-i8tn95mhw)
     * [MOBILE MINING](https://www.youtube.com/channel/UCevNnlKLgRTg-cku5JQ2Ahw)  
 
+
+-------------------------------------
 <img src="https://komarev.com/ghpvc/?username=mantvmass&label=visitors&color=0e75b6&style=flat" alt="mantvmass" />
   
   
