@@ -14,7 +14,6 @@ But don't forget to give credit as well.
  
 
 ## Languages & Tools
--------------
 <table>
   <tr>
     <td>
@@ -39,7 +38,6 @@ But don't forget to give credit as well.
 
 
 ## ⚡Follow me on social
--------------------------
   * [Facebook](https://www.facebook.com/PhuminMaliwan)  
   * YouTube
     * [MANTVMASS](https://www.youtube.com/channel/UCYJk0E1wwY3zX-i8tn95mhw)
