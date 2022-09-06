@@ -1,17 +1,19 @@
-<h2 align="center"> Welcome To My Github Profile😄 </h2>
-<p align="center">
-💬 Hello, welcome to my github profile.  
+<h1>I'm Phumin Maliwan</h1>
+
+<p>
+Hello, welcome to my github profile.  
 My name is Phumin Maliwan, My nickname is Man.  
 You can take my project that is open to public and edit as you like.  
 But don't forget to give credit as well.  
 </p>
-<img src="https://komarev.com/ghpvc/?username=mantvmass&label=visitors&color=0e75b6&style=flat" alt="mantvmass" />
-<div>
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=mantvmass&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-<div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=mantvmass&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%"/>
 
-<h2 align="center">Languages & Tools </h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantvmass&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%"/>
+
+ 
+
+<h2>Languages & Tools </h2>
 <table>
   <tr>
     <td>
@@ -35,12 +37,14 @@ But don't forget to give credit as well.
 </table>
 
 
-Follow me on social
+⚡Follow me on social
 -------------------
   * [Facebook](https://www.facebook.com/PhuminMaliwan)  
   * YouTube
     * [MANTVMASS](https://www.youtube.com/channel/UCYJk0E1wwY3zX-i8tn95mhw)
     * [MOBILE MINING](https://www.youtube.com/channel/UCevNnlKLgRTg-cku5JQ2Ahw)  
+
+<img src="https://komarev.com/ghpvc/?username=mantvmass&label=visitors&color=0e75b6&style=flat" alt="mantvmass" />
   
   
   
