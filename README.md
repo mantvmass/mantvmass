@@ -1,4 +1,4 @@
-# I'm [Phumin Maliwan](https://www.facebook.com/PhuminMaliwan)
+# <img src="https://github.com/mantvmass/mantvmass/blob/main/assets/hi.gif" width="29px">, I'm [Phumin Maliwan](https://www.facebook.com/PhuminMaliwan)
 
 <p>
 Hello, welcome to my github profile.  
@@ -9,7 +9,7 @@ But don't forget to give credit as well.
 
 <img src="https://github-readme-stats.vercel.app/api?username=mantvmass&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantvmass&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantvmass&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%" height="70%"/>
 
  
 
