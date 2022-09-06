@@ -7,9 +7,9 @@ You can take my project that is open to public and edit as you like.
 But don't forget to give credit as well.  
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mantvmass&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%" height="120px"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantvmass&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%" height="120px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mantvmass&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%"/>
+<!-- height="120px" -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantvmass&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%"/>
 
  
 
