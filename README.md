@@ -9,7 +9,6 @@ But don't forget to give credit as well.
 
 <img src="https://github-readme-stats.vercel.app/api?username=mantvmass&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantvmass&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" width="100%" height="120px"/> -->
 
  
 
@@ -23,10 +22,8 @@ But don't forget to give credit as well.
       <img title="GoLang" src="https://img.icons8.com/color/48/000000/golang.png"/>
       <img title="Python Language" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
       <img title="JavaScript Language" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-      <img title="NodeJS" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
       <img title="React" src="https://img.icons8.com/plasticine/48/undefined/react.png"/>
       <img title="PHP Language" src="https://img.icons8.com/ios/000000/php.png"/>
-      <img title="Laravel" src="https://img.icons8.com/fluency/48/undefined/laravel.png"/>
       <img title="CSS Language" src="https://img.icons8.com/color/48/000000/css3.png"/>
       <img title="HTML Language" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
       <img title="MariaDB" src="https://img.icons8.com/color/48/undefined/maria-db.png"/>
@@ -39,9 +36,6 @@ But don't forget to give credit as well.
 
 ## ⚡Follow me on social
   * [Facebook](https://www.facebook.com/PhuminMaliwan)  
-  * YouTube
-    * [MANTVMASS](https://www.youtube.com/channel/UCYJk0E1wwY3zX-i8tn95mhw)
-    * [MOBILE MINING](https://www.youtube.com/channel/UCevNnlKLgRTg-cku5JQ2Ahw)  
 
 
 -------------------------------------
