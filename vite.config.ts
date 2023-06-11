@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: "docs",
   },
-  base: "/mantvmass/",
+  base: "/mantvmass/", // base router
 })
