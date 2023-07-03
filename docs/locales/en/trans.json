@@ -1,0 +1,37 @@
+{
+    "navbar": {
+        "home": "Home",
+        "skills": "Skills",
+        "works": "Works",
+        "education": "Education"
+    },
+    "footer":{
+        "call": "Call"
+    },
+    "home":{
+        "title": "Hello World!",
+        "desc": "If you need a programming expert I'm ready to help you With expertise in coding and software development I can produce high-quality results that match your needs. I also have the ability to work professionally with a team. Understands the importance of teamwork and aims to produce high-quality work that aligns with your needs.",
+        "about": {
+            "title": "About Me",
+            "name": {
+                "key": "Name",
+                "value": "Phumin Maliwan"
+            },
+            "age": {
+                "key": "Age",
+                "value": "years"
+            },
+            "education": {
+                "key": "Highest level of education",
+                "value": "Bachelor (Computer Science)"
+            }
+        },
+        "hire": {
+            "title": "Hire Me",
+            "toast": "I'm busy with other tasks at the moment..."
+        }
+    },
+    "education": {
+        "title": "Education History"
+    }
+}
