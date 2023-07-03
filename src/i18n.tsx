@@ -13,6 +13,9 @@ i18n.use(Backend).use(initReactI18next).init({
     },
     react: {
         useSuspense: true
+    },
+    backend: {
+        loadPath: '/mantvmass/locales/{{lng}}/{{ns}}.json'
     }
 });
 
