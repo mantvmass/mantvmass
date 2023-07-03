@@ -6,6 +6,11 @@ export default defineConfig({
   plugins: [react()],
   build: {
     outDir: "docs",
+    rollupOptions: {
+      output: {
+        manualChunks: undefined,
+      },
+    },
   },
   base: "/mantvmass/", // base router
 })
