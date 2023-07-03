@@ -1,0 +1,21 @@
+
+.country-flag-size {
+    font-size: 80px;
+}
+
+.theme-active {
+    background-color: #11C657 !important;
+    font-weight: 700 !important;
+    color: white !important;
+}
+
+.theme-active:hover {
+    background-color: #11C657;
+    color: white;
+}
+
+.dropdown-item:hover {
+    background-color: #11C657 !important;
+    font-weight: 700 !important;
+    color: white !important;
+}
