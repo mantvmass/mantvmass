@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phumin Maliwan</h1>
 <h3 align="center">A full stack developer from Thailand</h3>
 
-**[See on web](https://mantvmass.github.io/mantvmass/)**
+**[See more on web](https://mantvmass.github.io/mantvmass/)**
 <p>
 Hello, welcome to my github profile.  
 My name is Phumin Maliwan ( mantvmas ).  
