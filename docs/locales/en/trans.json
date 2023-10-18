@@ -26,9 +26,8 @@
                 "value": "Bachelor (Computer Science)"
             }
         },
-        "hire": {
-            "title": "Hire Me",
-            "toast": "I'm busy with other tasks at the moment..."
+        "organization": {
+            "title": "Organizations"
         }
     },
     "education": {

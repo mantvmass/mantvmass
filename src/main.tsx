@@ -1,8 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.tsx'
-import i18n from './i18n.tsx'
-import { BrowserRouter } from 'react-router-dom' 
+import i18n from './i18n.ts'
+import { RouterProvider } from 'react-router-dom' 
+import routes from './config/routes.tsx'
+import { Provider } from 'react-redux'
+import { store } from './store/store.ts'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.js'
 import "flag-icons/css/flag-icons.min.css";
@@ -25,8 +27,8 @@ i18n.changeLanguage(initialLang)
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <React.StrictMode>
-        <BrowserRouter>
-            <App />
-        </BrowserRouter>
+        <Provider store={ store }>
+            <RouterProvider router={ routes } />
+        </Provider>
     </React.StrictMode>
 )
