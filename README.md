@@ -27,11 +27,14 @@ But don't forget to give credit as well.
 <img src="https://myreadme.vercel.app/api/embed/mantvmass?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## Donate
-<p>
-    <a href="https://github.com/sponsors/mantvmass">
-        <img src="https://img.shields.io/badge/Sponsor-GitHub-b60abf.svg" alt="Sponsor">
-    </a>
-    <img src="https://img.shields.io/badge/Kasikorn_Bank-0608905863-08a103.svg" alt="Sponsor">
 
-    Thanks for your support! 🎉
-</p>
+<a href="https://github.com/sponsors/mantvmass">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-b60abf.svg" alt="Sponsor"/>
+</a>
+<img src="https://img.shields.io/badge/Kasikorn_Bank-0608905863-08a103.svg" alt="Sponsor"/>
+
+```shell
+# USDT: Binance Smart Chain (BEP20)
+0x958b1454d7f088c571d7c00f2f4898d67d590fa4
+```
+**Thanks for your support! 🎉**
