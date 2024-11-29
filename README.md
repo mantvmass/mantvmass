@@ -36,8 +36,6 @@ But don't forget to give credit as well.
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-    <img width="12" />
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
