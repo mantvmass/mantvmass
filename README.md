@@ -96,8 +96,4 @@ But don't forget to give credit as well.
     </a>
 </p>
 
-```shell
-# ธนาคารกสิกรไทย | Kasikorn Bank (Thailand Bank)
-0608905863
-```
 **Thanks for your support! 🎉**
