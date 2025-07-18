@@ -32,13 +32,9 @@ But don't forget to give credit as well.
 <h2>🛠 Language and tools</h2>
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-    <img width="12" />
     <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
     <img width="12" />
